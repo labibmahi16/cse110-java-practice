@@ -2,7 +2,7 @@
 
 This repository contains my Java problem-solving practice from CSE110 (Programming Language I) at BRAC University.
 
-## Topics Covered
+## Topics:
 - Basic input/output
 - Loops
 - Conditional statements
