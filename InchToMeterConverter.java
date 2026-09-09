@@ -1,11 +1,13 @@
 import java.util.Scanner;
 
 public class InchToMeterConverter{
+
   
   public static void main(String [] args){
     
     Scanner sc= new Scanner(System.in);
-    
+
+    System.out.println("Welcome to Inches to Meter converter");
     
     System.out.println("Enter value in inch");
     int value = sc.nextInt();
