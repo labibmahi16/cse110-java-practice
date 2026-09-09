@@ -66,6 +66,7 @@ public class BasicCalculator {
         break;
       }
       else if (!ask.equalsIgnoreCase("yes")) {
+        System.out.println();
         System.out.println("Invalid input");
          
       }
