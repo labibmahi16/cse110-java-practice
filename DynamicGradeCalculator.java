@@ -32,7 +32,8 @@ public class DynamicGradeCalculator{
     else if (score >= d_limit) {grade = "D";} 
     else { grade = "F"; }
     
-    System.out.println("Your grade is " + grade);
+    System.out.println("Your grade is: " + grade);
+    
     
     sc.close();
     
