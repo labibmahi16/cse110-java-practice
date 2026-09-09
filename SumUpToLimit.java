@@ -9,7 +9,7 @@ public class SumUpToLimit{
     
     int sum=0;
     
-    for(int i= 0; i<=lim; i++){
+    for(int i = 0; i <= lim; i++){
       sum=sum+i; 
     }
     System.out.println(sum);
